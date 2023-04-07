@@ -1,0 +1,15 @@
+The score critera:
++5 pts for each correct guess and -5 pts for each incorrect guess
+
+The teams formation:
+Their is a gameroom which has all players and 2 teams
+each team consists of 2 players when players choose multiplayer mode the players chooses their teammate by their
+username. When a player chooses his teammate they are assigned in the same team and the game starts.
+If a player is chosen he won't be allowed to choose a team as he already is chosen by another player to be in a team.
+
+Game mode:
+Single player: a player get to guess untill he wins or loses.
+
+Multiplayer: team 1 get to guess first with each right guess the turn will remain to team 1
+if player 1 in team 1 guessed right then player 2 in team 1 start guessing
+if player 1 or player 2 guessed wrong the turn then goes to team 2 and vice versa.
